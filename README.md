@@ -1,3 +1,5 @@
-# algounareil
-Pemet d'avoir la même syntaxe algo que celle que j'apprends en cours dans atom.
-Il est basé sur le programme https://github.com/Le-Bennou/language-pseudocodefr
+# algounareil package
+
+A short description of your package.
+
+![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)

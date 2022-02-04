@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle algounareil",
+        "command": "algounareil:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "algounareil",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "algounareil:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

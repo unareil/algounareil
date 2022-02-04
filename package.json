@@ -1,11 +1,18 @@
 {
   "name": "algounareil",
+  "main": "./lib/algounareil",
   "version": "0.0.1",
-  "description": "Syntax highlighting for algo",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "algounareil:toggle"
+  },
   "repository": "https://github.com/unareil/algounareil",
-  "license": "GPL-3.0 License ",
+  "license": "MIT",
   "engines": {
-    "atom": "*",
-    "node": "*"
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
   }
 }
