@@ -1,8 +1,8 @@
 {
-  "name": "algounareil",
+  "name": "language-algounareil",
   "version": "1.0",
   "description": "Syntax highlighting for algo",
-  "repository": "https://github.com/unareil/algounareil",
+  "repository": "https://github.com/unareil/language-algounareil",
   "license": "GPL-3.0 License ",
   "engines": {
     "atom": "*",
