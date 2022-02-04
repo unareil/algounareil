@@ -1,2 +1,2 @@
-# language-algounareil
-Pemet d'avoir une syntaxe algo dans atom
+# algounareil
+Pemet d'avoir la même syntaxe algo que celle que j'apprends en cours dans atom
